@@ -1,1 +1,2 @@
-# python multi working code copy it and past it in notepad and save as it by "name.py"
+# Copy the code and past it in Notepad and save as it by "name.py"
+# Code1 - multi-working Calculator
